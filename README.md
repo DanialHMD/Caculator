@@ -31,3 +31,7 @@ as my first official project, I wanted it to look perfect; so I added pyqt5.
 by importing pyqt5, I made a class and added all the label and buttons that I needed,
 added their position on the window, added their functions and we are good to go!
 
+
+so that was all I wanted to talk about, when we run the code we'll haev a window like this:
+![Calculator](https://user-images.githubusercontent.com/108475573/178185745-f410feed-8e7b-46e2-af41-daa6cd140f1f.png)
+

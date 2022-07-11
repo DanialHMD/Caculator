@@ -26,7 +26,6 @@ after Calculator we added to other function to have a better look:
 ## What about the UI?
 graphical user interface is one of the features I add to my codes. it makes it easier for user to use the code.
 as my first official project, I wanted it to look perfect; so I added pyqt5.
-> for those who didnt use gui at all, give it a try.
 
 by importing pyqt5, I made a class and added all the label and buttons that I needed,
 added their position on the window, added their functions and we are good to go!

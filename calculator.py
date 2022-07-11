@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtWidgets import QDesktopWidget
 import sys
 
-
+#code by Danial Hamidi
 class Window(QMainWindow):
     def __init__(self):
         super().__init__()
